@@ -3,6 +3,8 @@
     <version>39.0</version>
     <types>
         <members>myVariable__c</members>
+        <members>testingVar__c</members>
+        <members>trunk_object__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
