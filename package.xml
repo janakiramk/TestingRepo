@@ -2,6 +2,24 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>Account.SLA__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Case.EngineeringReqNumber__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
+        <members>Case.SLAViolation__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>Goal.OrigGoalId__c</members>
+        <members>Lead.CurrentGenerators__c</members>
+        <members>Lead.NumberofLocations__c</members>
+        <members>Lead.Primary__c</members>
+        <members>Lead.ProductInterest__c</members>
+        <members>Lead.SICCode__c</members>
+        <members>Metric.OrigMetricId__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>myVariable__c</members>
         <members>testingVar__c</members>
         <members>trunk_object__c</members>
