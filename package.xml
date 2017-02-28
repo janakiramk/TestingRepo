@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
@@ -21,8 +19,57 @@
     </types>
     <types>
         <members>myVariable__c</members>
+        <members>newObject12__c</members>
+        <members>newObject13__c</members>
+        <members>newSrcObj01__c</members>
+        <members>newSrcObj02__c</members>
+        <members>qwerty1__c</members>
+        <members>qwerty2__c</members>
+        <members>qwerty3__c</members>
+        <members>sampleObjforTest2__c</members>
+        <members>sampleObjforTest3__c</members>
+        <members>sampleObjforTest__c</members>
+        <members>sourceVariable__c</members>
+        <members>testObj__c</members>
         <members>testingVar__c</members>
         <members>trunk_object__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>myVariable__c-myVariable Layout</members>
+        <members>newObject12__c-newObject12 Layout</members>
+        <members>newObject13__c-newObject13 Layout</members>
+        <members>newSrcObj01__c-newSrcObj01 Layout</members>
+        <members>newSrcObj02__c-newSrcObj02 Layout</members>
+        <members>qwerty1__c-qwerty1 Layout</members>
+        <members>qwerty2__c-qwerty2 Layout</members>
+        <members>qwerty3__c-qwerty3 Layout</members>
+        <members>sampleObjforTest2__c-sampleObjforTest2 Layout</members>
+        <members>sampleObjforTest3__c-sampleObjforTest3 Layout</members>
+        <members>sampleObjforTest__c-sampleObjforTest1 Layout</members>
+        <members>sourceVariable__c-sourceVariable Layout</members>
+        <members>testObj__c-testObj Layout</members>
+        <members>testingVar__c-testingVar Layout</members>
+        <members>trunk_object__c-trunk_object Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>myVariable__c</members>
+        <members>newObject12__c</members>
+        <members>newObject13__c</members>
+        <members>newSrcObj01__c</members>
+        <members>newSrcObj02__c</members>
+        <members>qwerty1__c</members>
+        <members>qwerty2__c</members>
+        <members>qwerty3__c</members>
+        <members>sampleObjforTest2__c</members>
+        <members>sampleObjforTest3__c</members>
+        <members>sampleObjforTest__c</members>
+        <members>sourceVariable__c</members>
+        <members>testObj__c</members>
+        <members>testingVar__c</members>
+        <members>trunk_object__c</members>
+        <name>SharingRules</name>
+    </types>
+    <version>39.0</version>
 </Package>
