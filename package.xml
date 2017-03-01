@@ -6,6 +6,8 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Case.EngineeringReqNumber__c</members>
