@@ -26,6 +26,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>MacroAction</members>
         <members>myVariable__c</members>
         <members>newObject12__c</members>
         <members>newObject13__c</members>
