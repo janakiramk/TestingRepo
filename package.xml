@@ -6,6 +6,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.Active__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Case.EngineeringReqNumber__c</members>
@@ -21,6 +22,7 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>Opportunity.TrackingNumber__c</members>
         <name>CustomField</name>
     </types>
     <types>
